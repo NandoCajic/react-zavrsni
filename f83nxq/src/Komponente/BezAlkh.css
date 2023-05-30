@@ -1,0 +1,33 @@
+.Text1 {
+  text-align: center;
+  color: black;
+  font-family: "Dancing Script", cursive;
+  font-size: 1.4rem;
+
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+}
+.Glava {
+  border: 5px solid black;
+}
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Oswald:wght@500;600&display=swap");
+
+.Naslov {
+  font-family: "Dancing Script", cursive;
+  font-size: 5rem;
+  color: black;
+}
+.div1 {
+  padding: 5%;
+  position: relative;
+}
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
